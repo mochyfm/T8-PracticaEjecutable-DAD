@@ -8,4 +8,6 @@
 - Con la carpeta "dist" creada, verificar que está todo correcto y comprimir esa misma carpeta para subirla al moodle
 - Para aprobar la práctica con un 5, se tiene que ver como en la captura que he puesto, perfectamente, en uno de los sistema operativo y que el profesor le vea para modificar alguna imagen y código.
 - Creas un repositorio privado en Github, entre tú y yo para compartirlo y subes los ficheros necesarios. Enviar la invitación para acceder.
-- (OPCIONAL) Subirlo y ponerlo en el Drive de tu cuenta corporativa y compartirlo conmigo. Añadir un fichero con la URL para descargarlo - Enlace: [Enlace al Drive](https://drive.google.com/file/d/1GnCTHB4Z3K_FHP6j1vqSldCAyEwj8EZR/view?usp=share_link)
+- (OPCIONAL) Subirlo y ponerlo en el Drive de tu cuenta corporativa y compartirlo conmigo. Añadir un fichero con la URL para descargarlo.
+
+Enlace: [Enlace al Drive](https://drive.google.com/file/d/1c3tXLnzvdxG0zyt2PBIh9DSgiU6QqUjX/view?usp=sharing)
