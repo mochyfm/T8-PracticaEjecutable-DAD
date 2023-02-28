@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>imagenes/Animals.ico</file>
+    <file>imagenes/exit-60.png</file>
+    <file>imagenes/facebook-480.png</file>
+  </qresource>
+</RCC>
